@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-size: 55px;
+  margin-bottom: 25px;
+}
+
+nav {
+  padding-bottom: 25px;
+}
+
+p {
+  color: hsl(0, 0%, 30%);
+}
+
+.new-game {
+  float: left;
+  padding-left: 10px;
+  max-width: 600px;
+}
+
+.instructions {
+  float: right;
+  padding-right: 10px;
+}
