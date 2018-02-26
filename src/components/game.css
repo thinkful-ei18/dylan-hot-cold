@@ -1,6 +1,6 @@
 .game {
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
   text-align: center;
   box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, .2);
   border-radius: 5px;
@@ -40,7 +40,8 @@
 }
 
 #guess-button {
-  width: 75%;
+  width: 77%;
+  height: 3rem;
   font-size: 24px;
   background-color: #40A4F4;
   color: white;
